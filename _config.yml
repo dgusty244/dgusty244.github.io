@@ -1,0 +1,9 @@
+title: Drew Gustafson Portfolio
+description: Personal portfolio site built with GitHub Pages and Jekyll
+
+# No baseurl needed since this is a user/organization site
+url: "https://dgusty244.github.io"
+
+markdown: kramdown
+highlighter: rouge
+theme: null
